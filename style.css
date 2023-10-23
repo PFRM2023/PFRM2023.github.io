@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* ---htmlbody100%--- */
+*{padding:0;margin:0;}
+html, body{}
+/* ---divСdiv--- */
+body{text-align: center;background-color: #CCCCCC;font-size: 9pt;color: #646464;margin-left: 0px;margin-top: 0px;margin-right: 0px;margin-bottom: 0px;line-height: 25px;}
+table{font-size: 9pt;}
+ul,li{ list-style:none;}
+td{font-size: 9pt;}
+/* ---׼ʽ--- */
+a:link{font-size: 9pt;text-decoration: none;color:#000000;line-height: 25px;text-align: justify;}
+a:visited{font-size: 9pt;text-decoration: none;color:#000000;line-height: 25px;text-align: justify;}
+a:hover{font-size: 9pt;text-decoration: underline;color: #E16417;line-height: 25px;text-align: justify;}
+a:active{font-size: 9pt;text-decoration: none;color:#000000;line-height: 25px;text-align: justify;}
+/* ---ɫʽ--- */
+.wlink:link{font-size: 9pt;text-decoration: none;color:#FFFFFF;}
+.wlink:visited{font-size: 9pt;text-decoration: none;color:#FFFFFF;}
+.wlink:hover{font-size: 9pt;text-decoration: none;color:#E16417;}
+.wlink:active{font-size: 9pt;text-decoration: none;color:#FFFFFF;}
+/* ---ɫʽ--- */
+.blink:link{font-size: 9pt;text-decoration: none;color:#FFFFFF;}
+.blink:visited{font-size: 9pt;text-decoration: none;color:#FFFFFF;}
+.blink:hover{font-size: 9pt;text-decoration: underline;color:#CC0000;}
+.blink:active{font-size: 9pt;text-decoration: none;color:#FFFFFF;}
+/* ---ɫʽ--- */
+.dlink:link{font-size: 10pt;text-decoration: none;color:#49536d;font-weight: bold;}
+.dlink:visited{font-size: 10pt;text-decoration: none;color:#49536d;font-weight: bold;}
+.dlink:hover{font-size: 10pt;text-decoration: underline;color:#A52D2E;font-weight: bold;}
+.dlink:active{font-size: 10pt;text-decoration: none;color:#49536d;font-weight: bold;}
+/* ---ǳɫʽ--- */
+.clink:link{font-size: 9pt;text-decoration: none;color:#444341;line-height: 25px;}
+.clink:visited{font-size: 9pt;text-decoration: none;color:#444341;line-height: 25px;}
+.clink:hover{font-size: 9pt;text-decoration: underline;color:#A52D2E;line-height: 25px;}
+.clink:active{font-size: 9pt;text-decoration: none;color:#444341;line-height: 25px;}
+/* ---ʽ--- */
+.zlink:link{font-size: 10.5pt;text-decoration: none;color:#333333;}
+.zlink:visited{font-size: 10.5pt;text-decoration: none;color:#333333;}
+.zlink:hover{font-size: 10.5pt;text-decoration: underline;color: #A52D2E;}
+.zlink:active{font-size: 10.5pt;text-decoration: none; color:#333333;}
+.llink:link{font-size: 10pt;text-decoration: none;color:#636363;font-weight: bold;}
+.llink:visited{font-size: 10pt;text-decoration: none;color:#636363;font-weight: bold;}
+.llink:hover{font-size: 10pt;text-decoration: underline;color: #E16417;font-weight: bold;}
+.llink:active{font-size: 10pt;text-decoration: none;color:#636363;font-weight: bold;}
+/* ---ѯinput--- */
+.SearchTitleInput33{width: 116px;height: 19px;border: 1px solid #bebebe;}
+/* ---Ϣ--- */
+.content{font-size: 10.5pt;line-height: 25px;}
+#infocontent div{font-size: 10.5pt;line-height: 25px;}
+/* ---div--- */
+#container_page{width: 1002px;text-align: left;margin-top: 0;margin-right: auto;margin-bottom: 0;margin-left: auto;background-color: #FFFFFF;}
+/* ---вdivҪƶ߶--- */
+#container_content{width: 1002px;padding: 0px;}
+/* ---ͷ--- */
+#headnav{padding-right: 0px;padding-left: 0px;width: 1002px;}
+#head{width: 1002px;clear: both;}
+/* ------ */
+#nav{width: 1002px;}
+#page{width: 1002px;clear: both;background-image: url(images/mainbg.gif);background-repeat: no-repeat;background-position: right top;}
+/* ---Ŀdiv--- */
+#listleft{float: left;width: 25%;background-color: #eeeeee;}
+/* ---ҲҪϢdiv--- */
+#listright{background-color: #FFFFFF;float: right;width: 70%;}
+/* ---ǰλ--- */
+#position{padding: 3px;}
+.listtitfont{font-size: 12pt;font-weight: normal;}
+/* ---б--- */
+#listtit{font-size: 12pt;font-weight: normal;padding-top: 15px;padding-bottom: 10px;padding-left: 15px;padding-right: 5px;}
+/* ---б--- */
+#newslist{padding-top: 8px;padding-right: 15px;padding-bottom: 8px;padding-left: 15px;width: 100%;font-size: 10.5pt;}
+/* ---Ȩ--- */
+#foot{clear: both;background-repeat: repeat-x;color: #000;}
+.kuang{border-right-width: 1px;border-right-style: solid;border-right-color: #e1e4e5;border-bottom-width: 1px;border-left-width: 1px;border-bottom-style: solid;border-left-style: solid;border-bottom-color: #e1e4e5;border-left-color: #e1e4e5;background-color: #FFFFFF;}
+.kuang1{border-right-width: 1px;border-right-style: solid;border-right-color: #e8e8e8;border-left-width: 1px;border-left-style: solid;border-left-color: #e8e8e8;background-color: #ffffe0;}
+.baizi{color: #FFFFFF;font-size: 10pt;}
+.hezi{color: #000000;font-size: 10pt;}
+.nanzi{color: #04274f;}
+.huizi{color: #ADAF9A;clear: both;}
+.hongzi{color: #b60103;clear: both;}
+.biaoti{font-size: 13px;font-weight: bold;color: #FFFFFF;}
+.biaoti1{color: #4d8ed7;font-family: "Simsun";font-size: 13px;font-weight: bold;}
+.biaoti2{color: #1064be;font-family: "Simsun";font-size: 14px;font-weight: bold;clear: both;}
+.biaoti3{color: #075fb6;font-family: "Simsun";font-size: 20px;clear: both;padding-top: 10px;padding-bottom: 10px;padding-right: 20px;padding-left: 20px;line-height: 25px;text-align: center;font-weight: bold;}
+.biaoti311{color: #075fb6;font-family: "Microsoft Yahei";font-size: 30px;clear: both;font-weight: bold;}
+.biaoti4{color: #4a4a4a;font-weight: bolder;clear: both;font-size: 14px;}
+.biaoti5{color: #FFFFFF;font-family: "Simsun";font-size: 14px;font-weight: bold;clear: both;}
+.headbg{background-image: url(images/infobg.gif);background-repeat: no-repeat;background-position: bottom;}
+.mainbg{background-image: url(images/mainbg.jpg);background-repeat: no-repeat;background-position: right bottom;}
+.mainleftbg1{background-image: url(images/mainleft1_2.gif);background-repeat: repeat-y;}
+.mainleftbg2{background-image: url(images/mainleft1_3.gif);background-repeat: no-repeat;background-position: bottom;}
+.mainleftbg3{background-image: url(images/mainleft2_2.gif);background-repeat: no-repeat;background-position: left top;}
+.mainmiddlebg1{background-image: url(images/mainmiddle2_2.gif);background-repeat: no-repeat;background-position: right;}
+.mainrightbg1{background-color: #f5f5f5;border-right-width: 1px;border-left-width: 1px;border-right-style: solid;border-left-style: solid;border-right-color: #dbdbdb;border-left-color: #dbdbdb;}
+.mainrightbg2{background-image: url(images/mainbg.jpg);background-repeat: no-repeat;background-position: left top;}
+.listmainbg1{background-image: url(images/listmainbg.jpg);background-repeat: no-repeat;background-position: bottom;}
+.listmainbg2{background-image: url(images/listleftbg.gif);background-repeat: no-repeat;background-position: top;}
+.listleftbg1{background-image: url(images/listleft2.gif);background-repeat: repeat-x;background-position: top;background-color: #e2effb;}
+.listleftbg2{background-image: url(images/listleft3.gif);background-repeat: no-repeat;background-position: center bottom;}
+.listrightbg1{background-image: url(images/mainbg.gif);background-repeat: no-repeat;background-position: right top;}
+.listrightbg2{background-image: url(images/listright1_2.gif);background-repeat: no-repeat;background-position: right top;clear: both;}
+.toolsInput{width: 100px;}
+.xian{background-repeat: repeat-x;border-bottom-width: 1px;border-bottom-style: dashed;border-bottom-color: #999999;}
+.foothang{line-height: 25px;background-image: url(images/foot.gif);background-repeat: repeat-x;background-position: top;}
+.copy{font-family: Arial, Helvetica, sans-serif;}
+.SearchTitleInput{width: 100px;}
+.article p{
+	line-height: 1.7em;
+    font-size:14px;
+}
+
+#w1 a span{color:#fff}
+#w1 ul li ul li a span{color:#000}
+
+.article p{ line-height:1.7em; font-size:14px;}
+.wp_article_list .list_item{ }
+.wp_listcolumn{ border-bottom:none; border-top:none;}
+.wp_listcolumn .wp_column a{ border-bottom:none; border-top:none; background:url(images/button2.gif) no-repeat 36%;text-align: center;}
+.wp_listcolumn .wp_column a:hover{ background:url(images/button2.gif) no-repeat 36%;}
+.wp_listcolumn .wp_column a.selected{  background:url(images/button2.gif) no-repeat 36%;}
+
+.wp_listcolumn .wp_subcolumn{ border-top:none;}
+.wp_listcolumn .wp_subcolumn .wp_column a{ background:url(images/button2.gif) no-repeat 40%;border-bottom:none;text-align: center; }
+.wp_listcolumn .wp_subcolumn .wp_column a:hover{  background:url(images/button2.gif) no-repeat 40%;}
+.wp_listcolumn .wp_subcolumn .wp_column a.selected{background:url(images/button2.gif) no-repeat 40%;}
+
+#wp_news_w12 .wp_article_list .list_item .Article_Index{ background:url(images/button3.gif) no-repeat center;}
+ 
